@@ -1,0 +1,4 @@
+npx -p typescript tsc --init
+
+transpilar
+npx -p typescript tsc
